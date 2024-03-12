@@ -1,7 +1,6 @@
 import React from "react";
 import * as Sensors from "expo-sensors";
-import { useState } from "react";
-import { useEffect } from "react";
+import { useState ,  useEffect  } from "react";
 
 
 export const useSensor = () => {
